@@ -3,13 +3,13 @@
   "pub_date": "2024-01-18T12:30:53+01:00",
   "platforms":{
     "darwin-aarch64":{
-      "url": "https://raw.githubusercontent.com/lzy2337032433/eee/master/test.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODllMU16aDJuOXR2TEdLZURTR0p1NzRzcDJpRkhFa2hWM1puMVU5WHZOVGd2WDhUYWtITnBpc3VNazZ0M0dWSUU5cGZOWW9ndDFkNlhvWlJoSEJuNEx3SnQrZC8wS3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzMzQ4Njk4CWZpbGU6dGVzdC5hcHAudGFyLmd6CnFNSDhiTTAzWnpuQUtyOU5nMHVHU2hoUEFJOXpqYjY0V3NWNEMrclc2U3BBYzdnQmQzVGJscFNQeWcxVXNHWHoreG1GRkpXaHNkWG8zbTY2SVNha0JnPT0K"
+      "url": "https://raw.githubusercontent.com/lzy2337032433/eee/master/gingkoo-chat.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODllMU16aDJuOWw0RS9meDQvVWk1VW5CMHZoclJCVlpIWGdvdUVtZmFXWTBwN2JadzNyQjFwaTV3cXpYcUNERVpGak1OVzJZQ0lPT3pvKzFqdUpQK1VVL042Y2VPL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzNDI5OTE5CWZpbGU6Z2luZ2tvby1jaGF0LmFwcC50YXIuZ3oKaENsZVN6L3F5QVRwQnRPeGJtaDA5YmNtWjRSNEw0YUMzS1MwREF2clZtYlRoVkFJRVVjeGpMN0w5RU1xcjFPNzVnRGVhUy91aW9acWJlZGVBTm5vQUE9PQo="
     },
     "darwin-x86_64":{
-      "url": "https://raw.githubusercontent.com/lzy2337032433/eee/master/test.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODllMU16aDJuOXR2TEdLZURTR0p1NzRzcDJpRkhFa2hWM1puMVU5WHZOVGd2WDhUYWtITnBpc3VNazZ0M0dWSUU5cGZOWW9ndDFkNlhvWlJoSEJuNEx3SnQrZC8wS3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzMzQ4Njk4CWZpbGU6dGVzdC5hcHAudGFyLmd6CnFNSDhiTTAzWnpuQUtyOU5nMHVHU2hoUEFJOXpqYjY0V3NWNEMrclc2U3BBYzdnQmQzVGJscFNQeWcxVXNHWHoreG1GRkpXaHNkWG8zbTY2SVNha0JnPT0K"
+      "url": "https://raw.githubusercontent.com/lzy2337032433/eee/master/gingkoo-chat.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODllMU16aDJuOWw0RS9meDQvVWk1VW5CMHZoclJCVlpIWGdvdUVtZmFXWTBwN2JadzNyQjFwaTV3cXpYcUNERVpGak1OVzJZQ0lPT3pvKzFqdUpQK1VVL042Y2VPL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzNDI5OTE5CWZpbGU6Z2luZ2tvby1jaGF0LmFwcC50YXIuZ3oKaENsZVN6L3F5QVRwQnRPeGJtaDA5YmNtWjRSNEw0YUMzS1MwREF2clZtYlRoVkFJRVVjeGpMN0w5RU1xcjFPNzVnRGVhUy91aW9acWJlZGVBTm5vQUE9PQo="
     }
   },
-  "notes": "!可以更新了！"
+  "notes": "快更新吧"
 }

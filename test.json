@@ -1,0 +1,15 @@
+{
+  "version": "0.0.3",
+  "pub_date": "2024-01-18T12:30:53+01:00",
+  "platforms":{
+    "darwin-aarch64":{
+      "url": "https://raw.githubusercontent.com/lzy2337032433/eee/master/test.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODllMU16aDJuOWw0RS9meDQvVWk1VW5CMHZoclJCVlpIWGdvdUVtZmFXWTBwN2JadzNyQjFwaTV3cXpYcUNERVpGak1OVzJZQ0lPT3pvKzFqdUpQK1VVL042Y2VPL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzNDI5OTE5CWZpbGU6Z2luZ2tvby1jaGF0LmFwcC50YXIuZ3oKaENsZVN6L3F5QVRwQnRPeGJtaDA5YmNtWjRSNEw0YUMzS1MwREF2clZtYlRoVkFJRVVjeGpMN0w5RU1xcjFPNzVnRGVhUy91aW9acWJlZGVBTm5vQUE9PQo="
+    },
+    "darwin-x86_64":{
+      "url": "https://raw.githubusercontent.com/lzy2337032433/eee/master/test.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODllMU16aDJuOWw0RS9meDQvVWk1VW5CMHZoclJCVlpIWGdvdUVtZmFXWTBwN2JadzNyQjFwaTV3cXpYcUNERVpGak1OVzJZQ0lPT3pvKzFqdUpQK1VVL042Y2VPL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzNDI5OTE5CWZpbGU6Z2luZ2tvby1jaGF0LmFwcC50YXIuZ3oKaENsZVN6L3F5QVRwQnRPeGJtaDA5YmNtWjRSNEw0YUMzS1MwREF2clZtYlRoVkFJRVVjeGpMN0w5RU1xcjFPNzVnRGVhUy91aW9acWJlZGVBTm5vQUE9PQo="
+    }
+  },
+  "notes": "!可以更新了！"
+}
